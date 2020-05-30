@@ -286,6 +286,9 @@ If somehow you want to revert back the allocated budget from a manager or a team
 So, you don’t need to bug the developers about it and work on an interface that gives you the freedom to have control over the budget you have in hand. 
 
 
+
+![Deallocate_budget](https://user-images.githubusercontent.com/48199047/83319433-0868d380-a25c-11ea-9f06-400a8f8ee88d.png
+
 Select A Country- Select the country from the drop-down list.
 
 
@@ -297,7 +300,7 @@ Deallocate Reason- This is an optional section. You can specify comments or reas
 
 One of the time-saving features in the R&R platform is our bulk budget allocation where you can disburse the available points to the managers who have been assigned the budget holder role.
 
-
+![Bulk_allocate_budget](https://user-images.githubusercontent.com/48199047/83319432-0737a680-a25c-11ea-8824-6cfb63cf617c.png)
 
 Select A Country- Select the country from the drop-down list.
 
