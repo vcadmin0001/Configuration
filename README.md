@@ -194,7 +194,9 @@ After the winner is selected, everyone will get notified in their feed along wit
 ### AWARD TYPE- NORMAL AWARD
 
 Select the Normal Award type from the given two options. The normal award is also the default award.
-**Configure**
+<br>
+
+**CONFIGURE**
 
 
 Configure the setting and reward points for the award created in this section. 
